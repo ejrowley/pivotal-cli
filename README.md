@@ -21,7 +21,7 @@ to list features:
     pivotal feature 
 
 
-Requirments:
+Requirements:
 ------------
 
 requires curl and xmlstarlet:
