@@ -12,10 +12,12 @@ Usage:
 -----
 
 to list bugs:
+
     pivotal bug
 
 
 to list features:
+
     pivotal feature 
 
 
